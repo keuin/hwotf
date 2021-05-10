@@ -1,6 +1,10 @@
 hwotf: HIT-WLAN On-The-Fly
 ============================
 
+## What is this
+
+> *hwotf* is a script helps you automatically log in to HIT-WLAN 
+
 ## How to use
 
 1. Install latest Python
