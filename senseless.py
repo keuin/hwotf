@@ -1,6 +1,6 @@
 # HIT Senseless WLAN
 # ------------------
-# Version: 1.2.1-beta
+# Version: 1.3.0
 # Author:  Keuin
 # GitHub:  https://github.com/keuin
 
