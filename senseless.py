@@ -5,8 +5,9 @@
 # GitHub:  https://github.com/keuin
 
 # TODO:
-#   1. Encrypt the password while transmitting.
-#   2. Handle the response in a more informative way.
+#  [ ] More CLI parameters
+#  [ ] Official senseless status check
+#  [ ] Better logging
 
 try:
     import requests
